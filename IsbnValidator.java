@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 /**
- * CPSC 220 - Fall 2022
  * Project2
  *
- * I pledge
  * @author Gary Young
  * @version 09/19/2022
  * Project2 determines if an ISBN # inputted by the user is invalid or valid.
