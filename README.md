@@ -30,6 +30,10 @@ The tool works by:
 1) How to use a scanner to check for user input.
 2) How to use Integer.parseInt().
 
+## What goal(s) did I accomplish?
+
+I created a tool that uses a math formula to determine if the ISBN number is valid!
+
 ## Compiling
 
 This program uses solely Java to compile.
